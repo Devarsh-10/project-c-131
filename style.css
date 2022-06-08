@@ -1,0 +1,21 @@
+body
+{
+    background-size: cover;
+    border-radius: center;
+}
+
+a
+{
+    font-size: 25px !important;
+    border-radius: 40px !important;
+    width: 350px !important;
+    color: black;
+    background-color: cyan;
+    font-weight: bold !important;
+}
+
+.heading
+{
+    font-size: 35px;
+    width: 100%;
+}
